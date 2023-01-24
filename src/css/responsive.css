@@ -1,0 +1,11 @@
+@media (max-width: 500px){
+    body{
+        width: 375px;
+        height: 100vh;
+        margin:auto;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
